@@ -33,4 +33,4 @@ ovasse & vellyr
 #### CMD - ovasse | Idea - ovasse & baupex
 #### Site - ovasse & vellyr | Idea - ovasse & vellyr & baupex⠀
 ##### ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀   DxBreak Team © 2025 - 2026
-![dxbre banner](https://raw.githubusercontent.com/lixeal/DXBRE/main/res/dxbre_corner-banner.png)
+![dxbre banner](https://raw.githubusercontent.com/lixeal/DXBRE/main/res/dxbreak_corner-banner.png)
