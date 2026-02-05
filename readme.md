@@ -16,8 +16,8 @@ loadstring(game:HttpGet("wehface.vercel.app/loader"))()
 loadstring(game:HttpGet("wehface.vercel.app/cb"))()
 ```
 ## Need more?
-### Site    | [Click](https://dxbreak.vercel.app)
-### Hosting | [Click](https://wehface.vercel.app)
+### Site    | [Click](https://dxbreak.vercel.app/)
+### Hosting | [Click](https://wehface.vercel.app/)
 ### Discord | [Click](https://discord.gg/waVwyMJdm8)
 
 ## Other
